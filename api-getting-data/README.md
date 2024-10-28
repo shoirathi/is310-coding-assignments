@@ -1,0 +1,1 @@
+I used two api's on this assignment. One was from a starwars api from which I took the data of the planet hoth. Then I had the script fetch items from the europeanas api that included the name of the planet.  

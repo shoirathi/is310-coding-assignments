@@ -1,0 +1,458 @@
+{
+    "Star Wars Planet Data": {
+        "name": "Hoth",
+        "rotation_period": "23",
+        "orbital_period": "549",
+        "diameter": "7200",
+        "climate": "frozen",
+        "gravity": "1.1 standard",
+        "terrain": "tundra, ice caves, mountain ranges",
+        "surface_water": "100",
+        "population": "unknown",
+        "residents": [],
+        "films": [
+            "https://swapi.dev/api/films/2/"
+        ],
+        "created": "2014-12-10T11:39:13.934000Z",
+        "edited": "2014-12-20T20:58:18.423000Z",
+        "url": "https://swapi.dev/api/planets/4/"
+    },
+    "Europeana Data": [
+        {
+            "completeness": 5,
+            "country": [
+                "Germany"
+            ],
+            "dataProvider": [
+                "International Maritime Museum"
+            ],
+            "dcTitleLangAware": {
+                "de": [
+                    "Hans Hoth"
+                ]
+            },
+            "edmConcept": [
+                "http://data.europeana.eu/concept/1665",
+                "http://data.europeana.eu/concept/48",
+                "https://d-nb.info/gnd/4347758-6"
+            ],
+            "edmConceptLabel": [
+                {
+                    "def": "Negativfilm"
+                },
+                {
+                    "def": "Fotografie"
+                },
+                {
+                    "def": "Negativfilm"
+                },
+                {
+                    "def": "Fotografi"
+                },
+                {
+                    "def": "\u041d\u0435\u0433\u0430\u0442\u0438\u0432"
+                },
+                {
+                    "def": "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f"
+                },
+                {
+                    "def": "Negatiivi"
+                },
+                {
+                    "def": "Valokuva"
+                },
+                {
+                    "def": "Negativo"
+                },
+                {
+                    "def": "Fotografia"
+                },
+                {
+                    "def": "\u041d\u0435\u0433\u0430\u0442\u0438\u0432"
+                },
+                {
+                    "def": "\u0421\u043d\u0438\u043c\u043a\u0430"
+                },
+                {
+                    "def": "Negatyvas"
+                },
+                {
+                    "def": "Fotografija"
+                },
+                {
+                    "def": "Negative"
+                },
+                {
+                    "def": "Photograph"
+                },
+                {
+                    "def": "Negat\u012bvs"
+                },
+                {
+                    "def": "Fotoatt\u0113ls"
+                },
+                {
+                    "def": "Pellicola per negativi"
+                },
+                {
+                    "def": "Foto"
+                },
+                {
+                    "def": "Film n\u00e9gatif"
+                },
+                {
+                    "def": "Photographie"
+                },
+                {
+                    "def": "Negativo"
+                },
+                {
+                    "def": "Fotograf\u00eda"
+                },
+                {
+                    "def": "Fotonegatiiv"
+                },
+                {
+                    "def": "Foto"
+                },
+                {
+                    "def": "Negativ"
+                },
+                {
+                    "def": "Fotografie"
+                },
+                {
+                    "def": "Negativ"
+                },
+                {
+                    "def": "Fotografija"
+                },
+                {
+                    "def": "Claonchl\u00f3"
+                },
+                {
+                    "def": "Grianghraf"
+                },
+                {
+                    "def": "Negatyw"
+                },
+                {
+                    "def": "Fotografia"
+                },
+                {
+                    "def": "Negatief"
+                },
+                {
+                    "def": "Foto"
+                },
+                {
+                    "def": "Negatiu"
+                },
+                {
+                    "def": "Fotografia"
+                },
+                {
+                    "def": "Fotografija"
+                },
+                {
+                    "def": "F\u00e9nyk\u00e9p"
+                },
+                {
+                    "def": "Fotograf"
+                },
+                {
+                    "def": "Fotografija"
+                },
+                {
+                    "def": "\u03a6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1"
+                },
+                {
+                    "def": "Argazkilaritza"
+                },
+                {
+                    "def": "Fotografi"
+                },
+                {
+                    "def": "Fotografie"
+                },
+                {
+                    "def": "Negativ <Fotografie>"
+                }
+            ],
+            "edmConceptPrefLabelLangAware": {
+                "de": [
+                    "Fotografie",
+                    "Negativfilm"
+                ],
+                "ru": [
+                    "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f",
+                    "\u041d\u0435\u0433\u0430\u0442\u0438\u0432"
+                ],
+                "fi": [
+                    "Valokuva",
+                    "Negatiivi"
+                ],
+                "def": [
+                    "Negativ <Fotografie>"
+                ],
+                "pt": [
+                    "Fotografia",
+                    "Negativo"
+                ],
+                "bg": [
+                    "\u0421\u043d\u0438\u043c\u043a\u0430",
+                    "\u041d\u0435\u0433\u0430\u0442\u0438\u0432"
+                ],
+                "lt": [
+                    "Negatyvas",
+                    "Fotografija"
+                ],
+                "lv": [
+                    "Negat\u012bvs",
+                    "Fotoatt\u0113ls"
+                ],
+                "hr": [
+                    "Fotografija"
+                ],
+                "fr": [
+                    "Film n\u00e9gatif",
+                    "Photographie"
+                ],
+                "hu": [
+                    "F\u00e9nyk\u00e9p"
+                ],
+                "sk": [
+                    "Fotograf"
+                ],
+                "sl": [
+                    "Negativ",
+                    "Fotografija"
+                ],
+                "ga": [
+                    "Claonchl\u00f3",
+                    "Grianghraf"
+                ],
+                "ca": [
+                    "Negatiu",
+                    "Fotografia"
+                ],
+                "sv": [
+                    "Fotografi",
+                    "Negativfilm"
+                ],
+                "mt": [
+                    "Fotografija"
+                ],
+                "el": [
+                    "\u03a6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1"
+                ],
+                "en": [
+                    "Negative",
+                    "Photograph"
+                ],
+                "it": [
+                    "Pellicola per negativi",
+                    "Foto"
+                ],
+                "es": [
+                    "Fotograf\u00eda",
+                    "Negativo"
+                ],
+                "et": [
+                    "Fotonegatiiv",
+                    "Foto"
+                ],
+                "cs": [
+                    "Fotografie",
+                    "Negativ"
+                ],
+                "eu": [
+                    "Argazkilaritza"
+                ],
+                "pl": [
+                    "Fotografia",
+                    "Negatyw"
+                ],
+                "da": [
+                    "Fotografi"
+                ],
+                "ro": [
+                    "Fotografie"
+                ],
+                "nl": [
+                    "Foto",
+                    "Negatief"
+                ]
+            },
+            "edmDatasetName": [
+                "770_DDB_IMMH"
+            ],
+            "edmIsShownAt": [
+                "https://iserver.imm-hamburg.de/objekt_start.fau?prj=IMMH-Digita&dm=Datenbankname&ref=116836"
+            ],
+            "edmIsShownBy": [
+                "https://iiif.deutsche-digitale-bibliothek.de/image/2/df95182c-a000-4bcc-ba5b-bcce49fff6c6/full/!800,600/0/default.jpg"
+            ],
+            "edmPlaceAltLabel": [
+                {
+                    "def": "Gro\u00dfhamburg"
+                },
+                {
+                    "def": "Hamburgischer Staat"
+                },
+                {
+                    "def": "Gro\u00df-Hamburg"
+                },
+                {
+                    "def": "Hampuri"
+                },
+                {
+                    "def": "Hamborg"
+                },
+                {
+                    "def": "Wolne i Hanzeatyckie Miasto Hamburg"
+                },
+                {
+                    "def": "Hanbao"
+                },
+                {
+                    "def": "Freistaat Hamburg"
+                },
+                {
+                    "def": "Gamburg (Hamburg)"
+                },
+                {
+                    "def": "Hamburgh"
+                },
+                {
+                    "def": "Bundesstaat Hamburg"
+                },
+                {
+                    "def": "Kayserliche Freye Reichs-Stadt Hamburg"
+                },
+                {
+                    "def": "Kaiserliche Freie Reichsstadt Hamburg"
+                },
+                {
+                    "def": "Hamburgisches Staatsgebiet"
+                },
+                {
+                    "def": "Freie und Hansestadt Hamburg"
+                },
+                {
+                    "def": "Hansestadt Hamburg"
+                },
+                {
+                    "def": "Free and Hanseatic City of Hamburg"
+                },
+                {
+                    "def": "Ville Libre et Hanse\u0301atique de Hambourg"
+                },
+                {
+                    "def": "Hambourg"
+                },
+                {
+                    "def": "Amburgo"
+                },
+                {
+                    "def": "Hamburgo"
+                },
+                {
+                    "def": "Freie Hansestadt Hamburg"
+                },
+                {
+                    "def": "Hamburgum"
+                },
+                {
+                    "def": "Hammonia (Hamburg)"
+                },
+                {
+                    "def": "Hammipolis"
+                },
+                {
+                    "def": "Augusta Gambriviorum"
+                }
+            ],
+            "edmPlaceAltLabelLangAware": {
+                "def": [
+                    "Gro\u00dfhamburg",
+                    "Hamburgischer Staat",
+                    "Gro\u00df-Hamburg",
+                    "Hampuri",
+                    "Hamborg",
+                    "Wolne i Hanzeatyckie Miasto Hamburg",
+                    "Hanbao",
+                    "Freistaat Hamburg",
+                    "Gamburg (Hamburg)",
+                    "Hamburgh",
+                    "Bundesstaat Hamburg",
+                    "Kayserliche Freye Reichs-Stadt Hamburg",
+                    "Kaiserliche Freie Reichsstadt Hamburg",
+                    "Hamburgisches Staatsgebiet",
+                    "Freie und Hansestadt Hamburg",
+                    "Hansestadt Hamburg",
+                    "Free and Hanseatic City of Hamburg",
+                    "Ville Libre et Hanse\u0301atique de Hambourg",
+                    "Hambourg",
+                    "Amburgo",
+                    "Hamburgo",
+                    "Freie Hansestadt Hamburg",
+                    "Hamburgum",
+                    "Hammonia (Hamburg)",
+                    "Hammipolis",
+                    "Augusta Gambriviorum"
+                ]
+            },
+            "edmPlaceLabel": [
+                {
+                    "def": "Hamburg"
+                },
+                {
+                    "def": "Hamburg"
+                }
+            ],
+            "edmPlaceLabelLangAware": {
+                "de": [
+                    "Hamburg"
+                ],
+                "def": [
+                    "Hamburg"
+                ]
+            },
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fiiif.deutsche-digitale-bibliothek.de%2Fimage%2F2%2Fdf95182c-a000-4bcc-ba5b-bcce49fff6c6%2Ffull%2F%21800%2C600%2F0%2Fdefault.jpg&type=IMAGE"
+            ],
+            "europeanaCollectionName": [
+                "770_DDB_IMMH"
+            ],
+            "europeanaCompleteness": 5,
+            "guid": "https://www.europeana.eu/item/770/item_YVNHTAVGQEJVK7SFSVKRLLEYCD32D2QP?utm_source=api&utm_medium=api&utm_campaign=fieureneardi",
+            "id": "/770/item_YVNHTAVGQEJVK7SFSVKRLLEYCD32D2QP",
+            "index": 0,
+            "language": [
+                "de"
+            ],
+            "link": "https://api.europeana.eu/record/770/item_YVNHTAVGQEJVK7SFSVKRLLEYCD32D2QP.json?wskey=fieureneardi",
+            "previewNoDistribute": false,
+            "provider": [
+                "German Digital Library"
+            ],
+            "rights": [
+                "http://creativecommons.org/licenses/by-nc/4.0/"
+            ],
+            "score": 120.605896,
+            "timestamp": 1712315146922,
+            "timestamp_created": "2024-04-05T10:36:08.205Z",
+            "timestamp_created_epoch": 1712313368205,
+            "timestamp_update": "2024-04-05T10:36:08.205Z",
+            "timestamp_update_epoch": 1712313368205,
+            "title": [
+                "Hans Hoth"
+            ],
+            "type": "IMAGE",
+            "ugc": [
+                false
+            ]
+        }
+    ]
+}
